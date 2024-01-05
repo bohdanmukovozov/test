@@ -1,1 +1,0 @@
-This folder contain all the needed configuration files for ArgoCD to deploy test applications
